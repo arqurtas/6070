@@ -13,3 +13,5 @@ _______________________________
 Data Set Used
 https://github.com/ArinB/MSBA-CA-Data/blob/main/CA01/house-price-test.csv
 The dataset above was used to run the code which includes information about house prices and its features
+_______________________________
+The method that I have used to run this project is by simply downloading the ipynb. file, from there I opened through google collab
